@@ -1,0 +1,10 @@
+{
+  "name": "erc3643-rwa-manager",
+  "version": "0.1.0",
+  "description": "Smart contracts for managing lifecycle events of tokenized real-world assets following ERC-3643.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
